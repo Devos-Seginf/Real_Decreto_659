@@ -18,7 +18,7 @@ Real Decreto 659/2023
 |**D**|Ciclo formativo (Básico / Medio / Superior)|Módulos + proyecto intermodular|
 |**E**|Curso de especialización|Módulos|
 
-### 2. Formación en empresa (dualidad) — punto más preguntado
+### 2. Formación en empresa (dualidad)
 
 Existen dos regímenes:
 
@@ -49,7 +49,7 @@ Regla importante (Art. 105): ningún módulo profesional puede desarrollarse en 
 
 - Al menos un módulo anual o dos cuatrimestrales (80-160 horas).
 
-### 4. Acceso a los ciclos (muy frecuente en exámenes)
+### 4. Acceso a los ciclos
 
 **Grado Medio** (Art. 108):
 
@@ -75,7 +75,7 @@ Regla importante (Art. 105): ningún módulo profesional puede desarrollarse en 
 - Fases: Asesoramiento → Evaluación → Acreditación y registro.
 - Edad mínima: 18 años (nivel 1) y 20 años (niveles 2 y 3).
 
-### 6. Otros puntos que suelen caer
+### 6. Otros puntos importantes
 
 - **Evaluación** (Art. 78 y 107): continua, por resultados de aprendizaje. Asistencia mínima del 75 % en presencial para presentarse a la evaluación final del módulo.
 - **Permanencia** en ciclos medios y superiores: máximo 2 cursos más de la duración prevista (presencial).
@@ -83,7 +83,7 @@ Regla importante (Art. 105): ningún módulo profesional puede desarrollarse en 
 - **Exención** de la formación en empresa: posible si se acredita experiencia laboral correspondiente (Art. 73 y 131).
 - Nuevos perfiles: experto del sector productivo, experto senior de empresa, prospector de empresas.
 
-### Esquema rápido para memorizar
+### Esquema rápido
 
 **RD 659/2023** desarrolla la LO 3/2022 →  
 **5 Grados** →  
